@@ -1,0 +1,11 @@
+<botcomponent schemaname="crb1d_dioCopilotAgent.topic.MultipleTopicsMatched">
+  <componenttype>9</componenttype>
+  <description>Esse tópico do sistema é disparado quando o bot correlaciona vários Tópicos com a mensagem de entrada e precisa esclarecer qual deve ser disparado.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Vários Tópicos Correspondentes</name>
+  <parentbotid>
+    <schemaname>crb1d_dioCopilotAgent</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

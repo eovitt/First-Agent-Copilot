@@ -1,0 +1,26 @@
+<bot schemaname="crb1d_dioCopilotAgent">
+  <authenticationmode>2</authenticationmode>
+  <authenticationtrigger>1</authenticationtrigger>
+  <iconbase64>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</iconbase64>
+  <iscustomizable>0</iscustomizable>
+  <language>1046</language>
+  <name>DIO Copilot Agent</name>
+  <runtimeprovider>0</runtimeprovider>
+  <synchronizationstatus>{
+  "$kind": "BotSynchronizationDetails",
+  "contentVersion": 2,
+  "currentSynchronizationState": {
+    "$kind": "SynchronizationState",
+    "botRegistration": {
+      "$kind": "BotRegistrationDetails",
+      "botRegistrationIdConsumptionTime": "2025-03-11T21:46:52Z",
+      "applicationId": "47ec1320-c8fb-447d-bc31-1d2f6bae1d6a",
+      "isAppAvailableInTenant": true
+    },
+    "provisioningStatus": "Provisioned",
+    "state": "Synchronized"
+  },
+  "lastSynchronizedOnUtc": "2025-03-11T21:47:37.8756644Z"
+}</synchronizationstatus>
+  <template>default-2.1.0</template>
+</bot>

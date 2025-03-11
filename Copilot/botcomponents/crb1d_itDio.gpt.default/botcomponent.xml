@@ -1,0 +1,11 @@
+<botcomponent schemaname="crb1d_itDio.gpt.default">
+  <componenttype>15</componenttype>
+  <description>Um agente que deve orientar usuários com procedimentos para solucionar falhas em sistemas ou softwares.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>IT Dio</name>
+  <parentbotid>
+    <schemaname>crb1d_itDio</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

@@ -1,0 +1,10 @@
+<botcomponent schemaname="crb1d_dioCopilotAgent.topic.ResetConversation">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Redefinir Conversa</name>
+  <parentbotid>
+    <schemaname>crb1d_dioCopilotAgent</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
